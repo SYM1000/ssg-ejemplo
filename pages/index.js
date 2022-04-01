@@ -31,7 +31,7 @@ export default function Home() {
             </div>
           </Link>
 
-          <Link href="/postOne">
+          <Link href="/postTwo">
             <div className={styles.card}>
               <h2>Segundo Post &rarr;</h2>
               <p>Después de ver el primer post, este es el post que tiene que ver.</p>
