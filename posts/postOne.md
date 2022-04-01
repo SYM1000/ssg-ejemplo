@@ -1,0 +1,1 @@
+Este es el primer post de la actividad 7
